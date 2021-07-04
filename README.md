@@ -1,2 +1,2 @@
 # connectedComponentOfUndirectedGraph
-Given an undirected graph, print all connected components line by line. For example consider the following graph.
+![ExerciseUndirectedGraph](https://user-images.githubusercontent.com/51544824/124385178-00882800-dcd5-11eb-8b0e-fc57f3593a3f.jpg)
